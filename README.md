@@ -1,10 +1,9 @@
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/zett-8/stable-diffusion-with-diffusers-on-colab/blob/main/Run_Stable_Diffusion_with_HuggingFace_diffusers.ipynb)
-
 # Stable Diffusion with diffusers
 
 This is easy to run Colab notebook for Stable Diffusion.  
 All you need is HuggingFace user token.
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/zett-8/stable-diffusion-with-diffusers-on-colab/blob/main/Run_Stable_Diffusion_with_HuggingFace_diffusers.ipynb)
 
 ## Preparation
 1. Sign up in [Hugging Face](https://huggingface.co)
