@@ -23,5 +23,6 @@ All you need is HuggingFace user token.
     
 ## How to run 
 1. Click the [Open in Colab] icon on top of this README
-1. Paste your token in the first cell
-1. Run each cell from the top
+2. Copy the note to your Google drive if you want
+3. Paste your token in the first cell
+4. Run each cell from the top
