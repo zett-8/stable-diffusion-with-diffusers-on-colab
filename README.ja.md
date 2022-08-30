@@ -1,3 +1,5 @@
+[[English]](https://github.com/zett-8/stable-diffusion-with-diffusers-on-colab)
+
 # Stable Diffusion with diffusers
 
 Stable DiffusionをGoogleのColabを使って簡単に動かすためのnotebookです。  
